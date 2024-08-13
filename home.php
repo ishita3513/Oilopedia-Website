@@ -103,9 +103,8 @@ if(isset($_POST['add_to_cart'])){
       
       <div class="content">
    
-         <span>Looks after you. Cares for you</span>
-         <h3>We Aim to Make you healthy</h3>
-         <p>Maintain your health with the best edible oil. Eat healthy to live healthily.</p>
+         <span>Find A Tailor And Make Your Clothes Easier Here</span>
+         <h3>Tailly</h3>
          <a href="about.php" class="btn">about us</a>
       </div>
 
@@ -114,8 +113,7 @@ if(isset($_POST['add_to_cart'])){
 </div>
 
 <section class="home-category">
-
-   <h1 class="title">shop by category</h1>
+<h1 class="title">shop by category</h1>
    
    <div class="box-container">
       <div class="box">
@@ -198,6 +196,7 @@ if(isset($_POST['add_to_cart'])){
    </div>
 
 </section>
+  
 
 
 

@@ -41,7 +41,7 @@ if(!isset($user_id)){
       <div class="box">
          <img src="images/home-img-3.png" alt="">
          <h3>why choose us?</h3>
-         <p>Oil need to be in a good quality because we been using this in our daily life like cooking ,medicinal purpose and etc,. So we the Oilopedia team wish to provide a fresh and quality oil.</p>
+         <p>To get the best fit in the best price</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 

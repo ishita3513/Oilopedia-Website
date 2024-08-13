@@ -20,9 +20,9 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <p> <i class="fas fa-phone"></i> +91 9876543210 </p>
-         <p> <i class="fas fa-phone"></i> +91 8976543210 </p>
-         <p> <i class="fas fa-envelope"></i> jhananithaabalu@gmail.com </p>
+         <!-- <p> <i class="fas fa-phone"></i> +91 9876543210 </p>
+         <p> <i class="fas fa-phone"></i> +91 8976543210 </p> -->
+         <p> <i class="fas fa-envelope"></i> ishitakumaripakur@gmail.com </p>
          <p> <i class="fas fa-map-marker-alt"></i> Vellore, Tamil Nadu </p>
       </div>
 
